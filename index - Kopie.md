@@ -1,5 +1,5 @@
 ---
-title: Test1
+title: Home
 layout: home
 ---
 
@@ -17,8 +17,6 @@ Other than that, you're free to customize sites that you create with this templa
 [Browse our documentation][Just the Docs] to learn more about how to use this theme.
 
 To get started with creating a site, just click "[use this template]"!
-
-#Heading
 
 ----
 
