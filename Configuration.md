@@ -6,6 +6,9 @@ parent: FlexxLink
 # Configuration
 Here you can configure `FlexxLink` by using this link [Link].
 
+{: .warning }
+Short warning
+
 ## Party Management
 
 ### Party Creation
