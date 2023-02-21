@@ -22,7 +22,7 @@ Other than that, you're free to customize sites that you create with this templa
 
 To get started with creating a site, just click "[use this template]"!
 
-[External.png]
+![](External.png)
 
 ----
 
